@@ -10,3 +10,5 @@ CCTV scraper made with python
 
 # Reference
 <img src="https://github.com/code-developers/SearchCam/blob/master/cam-cap.png">
+
+- Author: krishpranav | https://github.com/krishpranav
